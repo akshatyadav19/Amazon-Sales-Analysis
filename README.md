@@ -12,8 +12,7 @@
 7. [Installation](#installation)
 8. [Usage](#usage)
 9. [Contributing](#contributing)
-10. [License](#license)
-11. [Contact Information](#contact-information)
+10. [Contact Information](#contact-information)
 
 ## Introduction
 
